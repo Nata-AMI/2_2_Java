@@ -8,18 +8,10 @@
 ## Результаты
 100% не успешных тестов при заданных числовых значениях
 
-## Программа
-\\\ public class Main {
-public static void main(String[] args) {
-int currentaccount = 2_000_000_000;
-int changeaccount = 500_000_000;
-int endacc = currentaccount + changeaccount;
-System.out.println(endacc);
-}
-}
+
 ## Ссылки на баг-репорты
 
-https://user-images.githubusercontent.com/58206222/75444193-d312c800-5984-11ea-8ef7-531c0d05f1c5.png
+https://github.com/Nata-AMI/2_2_Java/issues/2
 
 ## Рекомендации по итогам тестирования
 Поменять тип данных (хотя бы в переменной для хранения итогового значения)
